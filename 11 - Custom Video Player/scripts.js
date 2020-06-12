@@ -11,7 +11,7 @@ const skipButtons = player.querySelectorAll('[data-skip]')
 const ranges = player.querySelectorAll('.player__slider')
 
 // Build our functions
-
+ 
 function togglePlay(){
     
     // this
